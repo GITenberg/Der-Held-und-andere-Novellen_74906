@@ -1,0 +1,31 @@
+_repo: Der-Held-und-andere-Novellen_74906
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Wenz, Richard
+    gutenberg_agent_id: '57718'
+    url: http://www.gutenberg.org/2009/agents/57718
+creator:
+  author:
+    agent_name: Holzamer, Wilhelm
+    gutenberg_agent_id: '57717'
+    url: http://www.gutenberg.org/2009/agents/57717
+description: ''
+gutenberg_issued: '2024-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74906'
+language: de
+pgterms:marc905: 20170812084850holzamer
+pgterms:marc906: '1910'
+pgterms:marc907: de
+production_note: Richard Scheibel and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aLeipzig :$bPhilipp Reclam jun., $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Der Held und andere Novellen
+url: http://www.gutenberg.org/ebooks/74906
