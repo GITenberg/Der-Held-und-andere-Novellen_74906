@@ -5,12 +5,17 @@ contributor:
     agent_name: Wenz, Richard
     gutenberg_agent_id: '57718'
     url: http://www.gutenberg.org/2009/agents/57718
+covers:
+- cover_type: archival
+  image_path: 74906-h/images/cover.jpg
 creator:
   author:
     agent_name: Holzamer, Wilhelm
     gutenberg_agent_id: '57717'
     url: http://www.gutenberg.org/2009/agents/57717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74906#Der-Held-und-andere-Novellen
 gutenberg_issued: '2024-12-15'
 gutenberg_type: Text
 identifiers:
